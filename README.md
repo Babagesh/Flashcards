@@ -1,6 +1,6 @@
 # Web Development Project 2 - *Flashcards*
 
-Submitted by: **Flashcards**
+Submitted by: **Bhagyesh Jethwani**
 
 This web app: **Flashcards**
 
