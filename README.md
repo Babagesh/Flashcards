@@ -41,7 +41,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<div style="position: relative; padding-bottom: 54.37499999999999%; height: 0;"><iframe src="https://www.loom.com/embed/73031c495b5f4e979484cd973157ea2c?sid=6a8e7da6-247a-4c59-8991-7baf2deef372" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/73031c495b5f4e979484cd973157ea2c">
+      <p>Vite + React - 17 June 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/73031c495b5f4e979484cd973157ea2c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/73031c495b5f4e979484cd973157ea2c-5604945156209247-full-play.gif">
+    </a>
+  </div>
 
 GIF created with Loom
 
