@@ -4,7 +4,7 @@ Submitted by: **Flashcards**
 
 This web app: **Flashcards**
 
-Time spent: **6** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -35,28 +35,25 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [x] Next button wraps around flashcard to beginning.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div style="position: relative; padding-bottom: 54.37499999999999%; height: 0;"><iframe src="https://www.loom.com/embed/73031c495b5f4e979484cd973157ea2c?sid=6a8e7da6-247a-4c59-8991-7baf2deef372" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with Loom
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+Had a challenge figuring out how to get the answer to display after flipping.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Bhagyesh Jethwani]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
