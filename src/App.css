@@ -18,15 +18,16 @@ h5{
   border: solid 5px grey;
   background-color: azure;
   width: 40%;
-  height: 350px;
+  height: 400px;
   display: flex;
   justify-content: center;
   align-items: center;
   margin-bottom: 50px;
+  border-radius: 10px;
 }
 
-.Card:click{
-
+.card:active{
+  transform: scale(0.95);
 }
 .buttons{
   display: flex;
@@ -38,4 +39,7 @@ button{
   margin-left: 20px;
   height: 100px;
   width: 150px;
+  border: solid rgb(101, 101, 240) 5px;
+  border-radius: 10px;
+  background-color: rgb(189, 189, 246);
 }

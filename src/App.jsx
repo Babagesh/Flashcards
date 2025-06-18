@@ -5,9 +5,12 @@ import './App.css';
 
 export default function App()
 {
+  const questions = ["Start", "How many infinity stones did Thanos need for his gauntlet?", "Who created Ultron?", "Who is Thor's brother?", "What other Avenger was worthy of Thor's hammer?", "How many Guardians of the Galaxy are there?", "What is Spiderman's part time job?", "What is Deadpool's superpower?", "Who gave up their life for the Soul Stone?", "What is Shang Chi's weapon called?", "Who was the villian in Thor Ragnarok?"]
+  const answers = ["Press the arrows to navigate through the flashcards!", "6!", "Iron Man!", "Loki!", "Captain America", "6!", "Photography!", "Regeneration!", "Black Widow!", "The Ten Rings!", "Hela, his sister!"];
+
   const [index, updateIndex] = useState(0);
   const [flipped, flipCard] = useState(false)
-  const [text, updateText] = useState("Start");
+  const [text, updateText] = useState(questions[0]);
 
   const leftClick = () =>
   {
@@ -50,8 +53,7 @@ export default function App()
       updateText(answers[index]);
     }
   }
-  const questions = ["Start", "How many infinity stones did Thanos need for his gauntlet?", "Who created Ultron?"]
-  const answers = ["Press the arrows to navigate through the flashcards!", "6!", "Iron Man!"]
+  
 
 
   return (
